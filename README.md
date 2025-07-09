@@ -4,6 +4,7 @@ The `NVC_GUI.py` was developed to analyze cardioballistic waveform amplitudes re
 - Apply bandpass filtering and smoothing.
 - Identify peaks and troughs.
 - Measure changes in CBW amplitude.
+![NVC_GUI_DEMO](https://github.com/user-attachments/assets/00ebec51-d363-41d5-96c2-cd86b9a8710c)
 
 ## Features
 - Load `.npz` files with paired electrode signals.
