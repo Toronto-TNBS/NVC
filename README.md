@@ -1,5 +1,5 @@
 # NVC Analysis GUI
-This GUI was developed to analyze cardioballistic waveform amplitudes recorded before and after intraoperative microstimulation. It enables inspection and analysis of raw electrophysiological signal files in .npz format.
+This GUI was developed to analyze cardioballistic waveform amplitudes recorded before and after intraoperative microstimulation. It enables inspection and analysis of raw electrophysiological signal files in `.npz` format.
 
 The GUI can be used to:
 - Visualize microelectrode recordings from two electrodes.
